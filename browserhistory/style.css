@@ -5,21 +5,6 @@ font-family: "Open Sans", sans-serif;
   background-color: Ivory;
 }
 
-#navbar ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-#navbar li {
-  display: inline;
-}
-
-#navbar a {
-  margin-left: 75px;
-  margin-right: 75px;
-}
-
 h1,h2 {
   font-family: "Oswald", sans-serif;
 }
